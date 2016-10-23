@@ -1,0 +1,7 @@
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\bin\Debug\MultiAlt.dll
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\bin\Debug\MultiAlt.pdb
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\bin\Debug\PlayerIOClient.dll
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\bin\Debug\PlayerIOClient.xml
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\obj\Debug\MultiAlt.csprojResolveAssemblyReference.cache
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\obj\Debug\MultiAlt.dll
+c:\users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt\obj\Debug\MultiAlt.pdb

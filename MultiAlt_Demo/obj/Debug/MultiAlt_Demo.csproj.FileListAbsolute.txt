@@ -1,0 +1,10 @@
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\MultiAlt_Demo.exe.config
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\MultiAlt_Demo.exe
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\MultiAlt_Demo.pdb
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\MultiAlt.dll
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\PlayerIOClient.dll
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\MultiAlt.pdb
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\bin\Debug\PlayerIOClient.xml
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\obj\Debug\MultiAlt_Demo.csprojResolveAssemblyReference.cache
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\obj\Debug\MultiAlt_Demo.exe
+c:\Users\newlife.owner-pc\documents\visual studio 2013\Projects\MultiAlt\MultiAlt_Demo\obj\Debug\MultiAlt_Demo.pdb
